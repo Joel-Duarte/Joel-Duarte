@@ -1,7 +1,6 @@
 <div align="center">
 
 # Joel Duarte
-### AI Systems & Infrastructure Engineer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=45&lines=AI+Systems+%26+Infrastructure+Engineer;Local-First+LLM+Orchestration+%26+LangGraph;Systems+Internals%3A+Rust+%E2%80%A2+Go+%E2%80%A2+C%2B%2B+%E2%80%A2+ESP32" alt="Typing Banner" />
