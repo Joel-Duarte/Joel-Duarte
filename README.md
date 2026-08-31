@@ -23,9 +23,7 @@
 
 ## ⚡ Executive Summary
 
-Software engineer specializing in bridging **traditional systems architecture** with **production-grade AI applications**. Passionate about **local-first LLM orchestration**, **deterministic extraction pipelines**, and low-level engineering. 
-
-With **6+ years of production platform ownership** and background spanning bare-metal embedded sensor hardware (ESP32/mmWave) to distributed state machines (LangGraph/pgvector), I own the complete lifecycle from low-latency protocol design to privacy-centric production environments.
+Software engineer specializing in bridging traditional systems design with production-grade AI applications. Focused on AI infrastructure, local-first LLM orchestration, and deterministic extraction pipelines. Proven track record of owning the full software lifecycle from architecture to robust, privacy-focused production environments.
 
 ---
 
@@ -108,15 +106,3 @@ Exploring low-level mechanics, custom protocols, and data structures from first 
 - **2024 – Present | Independent Systems & AI R&D**: Architecting local-first AI applications (**Job Tracker**), vision-based structured extraction systems, embedded hardware safety modules (**SafeBaige**), and systems protocol engines (**Rusdis**, **GoGeit**).
 - **2018 – Present | Technical Platform Owner**: Long-term technical stewardship of a production e-commerce and inventory platform. Ensured continuous MySQL database uptime, server infrastructure maintenance, and rapid incident resolution.
 - **2018 – 2019 | Digital Transformation Architect**: Spearheaded the digitization of commercial workflows for a regional distributor, engineering unified B2B web applications (PHP/JS/SQL) and companion C#/.NET desktop inventory systems.
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <a href="https://github.com/Joel-Duarte">
-    <img src="https://streak-stats.demolab.com?user=Joel-Duarte&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
-  </a>
-</div>
-
-
