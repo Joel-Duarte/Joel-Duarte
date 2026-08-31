@@ -111,23 +111,12 @@ Exploring low-level mechanics, custom protocols, and data structures from first 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joel-Duarte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Duarte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Joel-Duarte">
+    <img src="https://streak-stats.demolab.com?user=Joel-Duarte&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
----
-
-<div align="center">
-
-### Let's Build Something Exceptional 🚀
-
-Whether you want to discuss local-first AI architectures, low-level systems engineering, or prospective opportunities:
-
-<a href="https://www.linkedin.com/in/joel-duartedev/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-
-</div>
 
