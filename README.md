@@ -4,7 +4,7 @@
 ### AI Systems & Infrastructure Engineer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=45&lines=AI+Systems+%26+Infrastructure+Engineer;Local-First+LLM+Orchestration+%26+LangGraph;Systems+Internals%3A+Rust+%E2%80%A2+Go+%E2%80%A2+C%2B%2B+%E2%80%A2+ESP32;6%2B+Years+Production+Platform+Ownership" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=45&lines=AI+Systems+%26+Infrastructure+Engineer;Local-First+LLM+Orchestration+%26+LangGraph;Systems+Internals%3A+Rust+%E2%80%A2+Go+%E2%80%A2+C%2B%2B+%E2%80%A2+ESP32" alt="Typing Banner" />
 </a>
 
 <p align="center">
@@ -106,3 +106,12 @@ Exploring low-level mechanics, custom protocols, and data structures from first 
 - **2024 – Present | Independent Systems & AI R&D**: Architecting local-first AI applications (**Job Tracker**), vision-based structured extraction systems, embedded hardware safety modules (**SafeBaige**), and systems protocol engines (**Rusdis**, **GoGeit**).
 - **2018 – Present | Technical Platform Owner**: Long-term technical stewardship of a production e-commerce and inventory platform. Ensured continuous MySQL database uptime, server infrastructure maintenance, and rapid incident resolution.
 - **2018 – 2019 | Digital Transformation Architect**: Spearheaded the digitization of commercial workflows for a regional distributor, engineering unified B2B web applications (PHP/JS/SQL) and companion C#/.NET desktop inventory systems.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Joel-Duarte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joel-Duarte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="48%" />
+</div>
