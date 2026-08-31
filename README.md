@@ -112,6 +112,7 @@ Exploring low-level mechanics, custom protocols, and data structures from first 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&langs_count=6&display_format=percent&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Joel-Duarte&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joel-Duarte&layout=compact&langs_count=6&theme=tokyonight" height="195" alt="Top Languages" />
 </div>
