@@ -43,11 +43,11 @@ Software engineer specializing in bridging traditional systems design with produ
 
 ---
 
-### 📡 [SafeBaige — Proactive mmWave Radar Safety System](https://github.com/Joel-Duarte/SafeBaige)
+### 📡 [SafeBaige — Proactive mmWave Radar Safety System](https://github.com/Joel-Duarte/SafeBaigeUltra)
 > **Embedded real-time sensor acquisition and collision prevention module for micromobility safety.**
 
 <p>
-  <a href="https://github.com/Joel-Duarte/SafeBaigeUltra"><img src="https://img.shields.io/badge/Repository-Joel--Duarte%2FSafeBaige-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+  <a href="https://github.com/Joel-Duarte/SafeBaigeUltra"><img src="https://img.shields.io/badge/Repository-Joel--Duarte%2FSafeBaigeUltra-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
 </p>
 
 - **Hardware & Protocol Integration**: Interfaced an **ESP32** microcontroller with **mmWave radar sensors** over UART / I²C for real-time spatial telemetry.
