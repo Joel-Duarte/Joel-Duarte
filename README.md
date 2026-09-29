@@ -20,8 +20,6 @@
 
 ---
 
-## ⚡ Executive Summary
-
 Software engineer specializing in bridging traditional systems design with production-grade AI applications. Focused on AI infrastructure, local-first LLM orchestration, and deterministic extraction pipelines. Proven track record of owning the full software lifecycle from architecture to robust, privacy-focused production environments.
 
 ---
