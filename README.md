@@ -97,12 +97,3 @@ Exploring low-level mechanics, custom protocols, and data structures from first 
 </div>
 
 ---
-
-## Engineering Impact & Journey
-
-- **2024 – Present | Independent AI Systems & R&D**: Architecting local-first AI applications, including a privacy-first AI job tracker and orchestration engine.
-- **Model Fine-Tuning & Customization**: Executing model adaptation workflows encompassing LLM LoRAs, embedding fine-tuning, and vision model training.
-- **Vision Pipelines & Object Detection**: Engineered multi-modal data extraction services using local vision-capable LLMs and developed a custom YOLO trainer for game character recognition.
-- **Foundational RL Experimentation**: Researched and implemented early reinforcement learning starting in 2018, utilizing OpenAI Gym and TensorFlow for policy optimization and control dynamics.
-- **2018 – Present | Technical Platform Owner**: Long-term technical stewardship of a production e-commerce and inventory platform. Ensured continuous MySQL database uptime, server infrastructure maintenance, and rapid incident resolution.
-- **2018 – 2019 | Digital Transformation Architect**: Spearheaded the digitization of commercial workflows for a regional distributor, engineering unified B2B web applications (PHP/JS/SQL) and companion C#/.NET desktop inventory systems.
