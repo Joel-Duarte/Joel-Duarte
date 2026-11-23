@@ -46,6 +46,7 @@ Software engineer specializing in bridging traditional systems design with produ
 <p>
   <a href="https://github.com/Joel-Duarte/MCPcodeaway"><img src="https://img.shields.io/badge/Repository-Joel--Duarte%2FMCPcodeaway-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
 </p>
+
 - **Server-Side Code Mode & Adaptive Routing**: Injected typed Python stubs into networkless **Monty (`pydantic-monty`)** sandboxes so LLMs join, filter, and aggregate multi-step tool workflows in a single turn (cutting bulk-reconciliation tokens by **46.4%** and round-trips from `6` to `1`), alongside adaptive Classic/Hybrid routing and BM25/intent-filtered tool discovery.
 - **Zero-Trust Security & Provenance**: Enforced RS256 OIDC JWT validation, RFC 8693 / Microsoft Entra ID On-Behalf-Of (OBO) token exchange, pre/post-call ABAC row filtering, SSRF guards, PII/secret redaction, `input_required` confirmation gates, and HMAC-SHA256 provenance signing across `mcp_http`, `mcp_stdio`, and OpenAPI upstreams.
 - **Operate Control Plane**: Built a **Nuxt 4 + Vue 3.5** observability and governance console with live WebSocket telemetry, per-stage latency waterfalls, workflow ROI analytics, model A/B benchmarking, and interactive MCP Apps (`ui://`) previews.
